@@ -1,45 +1,26 @@
 # sholat
-# karjok pangesty
+# Muhammad Alfarrij / Baturaja Cyber Army
 # created 31, januari 2019 2:18 pm
-# updated 5 mei 2019 6:00 pm
+# updated 01 Ags 2019 14:43 pm
 #-*-coding : utf-8-*-
 '''
-
-
 HARAP BACA DULU GAN !!!
 -----------------------
-
-
-
-
-Kodenya open source. bisa kalian pakek buat belajar.
-tapi saya benar-benar nggak rela kalo script ini di tiru tapi tidak menyantumkan sumber scriptnya (disini kasusnya adalah repo saya)
-jadi mohon hargai hasil karya orang, seburuk apapun itu.
-
-'ah lebay lu, program" besar aja open source ga segininya, sampe di notice segala'
-siapa bilang ??
-author program" gede juga ngasi notice di tiap readme atau dokumentssinya, kamu aja yg gapernah baca DOC.
-ya,
-saya sadar tulisanku berantakan banget,
-gak rapih, asal asalan, karena emang masi belajar.
-tapi percayalah.
-ini hasil usaha gw.
-ini dua kali gw buat.
-buat pertama jadi, tapi malah ada masalah, jadi hilang kehapus. itupun habis 3 hari&malam buat selesai.
-gw iklasin. dan gw buat lagi. 
-waktu hampir sama, tapi ini sedikit lebih cepet karena aku dah tau alur kode nya.
-
-jadi bikin program itu nggak mudah.
-hargailah, meskipun itu cuma tulisan
-'thanks to : blablabla'
-
-gw yakin yg udah pro pasti anggep ini sampah.
-it's okay.
-gw juga percaya kalo yg udah pro ga mungkin niru" program kek gini.
-tapi kalian yg masi blajar, gw ga yakin.
-
-
-saya harap bermanfaat.
+Saya mohon Hargai Script ini, yang pertama kali buat script ini adalah # karjok pangesty
+Jangan Copas Script ini, lu pada enggk bisa menghargai orang lain jika lu copass.
+hanya orang goblok yang copas script ini!!!!
+Jadwal Sholat ini Khusus Untuk umat muslim.
+=======================================================================================
+"01 Jan 2019"
+Tanggal 01
+Bulan 01
+Tahun 2019
+# We Are Anonymous 
+# We Are Legions
+# Baturaja Cyber Army
+Admin Cyber -Muhammad al farrij
+Subscribe Channel saya
+https://www.youtube.com/channel/UCZd920yap2JLjBaqJSMa1fA.
 
 '''
 
@@ -378,7 +359,7 @@ def banner():
       {lgr}:::::::{lg}║{lgr}::{lg}║  {lgr}::{lg}║╚{lgr}::::::{lg}╔╝{lgr}:::::::{lg}╗{lgr}::{lg}║  {lgr}::{lg}║   {lgr}::{lg}║   
       ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝
               {lw}Programmer Muslim Nggak Lupa Ibadah{lg}
-                  {lg}[{x}Spesial Ramadhan 1440 H{lg}]
+                  {lg}[{x}Baturaja Cyber Army{lg}]
 _______________________________________________________________
 ''')                                                  
 
@@ -435,7 +416,7 @@ def tentang():
 {lg}Nama        : {lw}Sholat
 {lg}Versi       : {lw}2.0 (update: 5 Mei 2019, 6:00PM)
 {lg}Tanggal     : {lw}31 Januari 2019, 2:18PM
-{lg}Author      : {lw}Karjok Pangesty
+{lg}Author      : {lw}Karjok Pangesty dan alfarrij
 {lg}Tujuan      : {lw}Mengingatkan kita pada
               waktu sholat
 {lg}Terimakasih : {lw}Allah SWT
